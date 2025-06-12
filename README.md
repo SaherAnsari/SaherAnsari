@@ -107,16 +107,6 @@ fun_fact: "Combining forensic science with cybersecurity!"
 
 ---
 
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/SaherAnsari/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaherAnsari&repo=repo1&theme=radical" />
-  </a>
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
